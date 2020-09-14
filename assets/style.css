@@ -1,0 +1,130 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+div.cityForm {
+  max-width: 310px;
+  padding-left: 1%;
+  display: -webkit-box;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: white;
+  border-radius: 0;
+  background-color: darkslategray;
+}
+
+.text-center {
+  font-weight: bolder;
+}
+
+div#searchContainer {
+  width: 30px;
+  background-color: rgb(41, 115, 252);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+}
+
+i.fas.fa-search {
+  margin-top: 11px;
+  color: #ffffff;
+}
+
+div.currentWeatherContainer {
+  width: 550px;
+  height: 250px;
+  display: flexbox;
+  border: 1px solid silver;
+  margin-left: 20px;
+}
+
+div.fiveDayCastContainer {
+  width: 550px;
+  height: 250px;
+  
+}
+
+footer div.copyright {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  border-top: 10px solid black;
+  margin-top: 30px;
+  padding: 15px;
+  background-color: rgb(171, 185, 199);
+  color: transparent;
+
+}
+
+@media screen and (max-width: 768px) {
+    body {
+   background-color: #ffffff;
+    }
+  
+    .wrapper {
+      
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-content,
+    #sidebar {
+      width: 100%;
+    }
+  
+    #sidebar {
+      margin-top: 40px;
+    }
+}
+  
+@media screen and (max-width: 400px) {
+    body {
+   background-color: #ffffff;
+    }
+  
+    .wrapper {
+      
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-content,
+    #sidebar {
+      width: 100%;
+    }
+  
+    #sidebar {
+      margin-top: 40px;
+    }
+}
+  
+@media screen and (max-width: 992px) {
+    body {
+        background-color: #ffffff;
+      
+    }
+  
+    .wrapper {
+      
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-content,
+    #sidebar {
+      width: 100%;
+    }
+  
+    #sidebar {
+      margin-top: 40px;
+    }
+}
