@@ -2,10 +2,11 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  max-width: 1280px;
 }
 
 div.cityForm {
-  max-width: 310px;
+  max-width: 20%;
   padding-left: 1%;
   display: -webkit-box;
 }
@@ -16,13 +17,18 @@ div.cityForm {
   color: white;
   border-radius: 0;
   background-color: darkslategray;
+  max-width: 100%;
+}
+
+.mainContainer {
+  width: 800px;
 }
 
 .text-center {
   font-weight: bolder;
 }
 
-div#searchContainer {
+div#searchContainer.text-center {
   width: 30px;
   background-color: rgb(41, 115, 252);
   border-top-left-radius: 5px;
@@ -38,7 +44,7 @@ i.fas.fa-search {
 }
 
 div.currentWeatherContainer {
-  width: 550px;
+  width: 820px;
   height: 250px;
   display: flexbox;
   border: 1px solid silver;
@@ -46,9 +52,18 @@ div.currentWeatherContainer {
 }
 
 div.fiveDayCastContainer {
-  width: 550px;
+  width: 820px;
   height: 250px;
-  
+  margin-left: 20px;
+}
+
+div.card {
+  display: inline-block;
+  margin: 8px;
+}
+
+div.card-body {
+  height: 150px;
 }
 
 footer div.copyright {
