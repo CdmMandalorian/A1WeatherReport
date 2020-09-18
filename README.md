@@ -25,7 +25,7 @@
 *THEN I am presented with the last searched city forecast
 
 * Got to the 
-<a href="https://cdmmandalorian.github.io/weatherDashboard/">A-1 Report Weather Dashboard</a>
+<a href="https://cdmmandalorian.github.io/weatherDashboard.github.io/">A-1 Report Weather Dashboard</a>
 <img src="./assets\images\Screenshot_2020-09-18 A1-Report Weather Dashboard.png">
 <img src="./assets\images\Screenshot_2020-09-18 A1-Report Weather Dashboard(1).png">
 <img src="./assets\images\Screenshot_2020-09-18 A1-Report Weather Dashboard(2).png">
