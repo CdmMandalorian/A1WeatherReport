@@ -24,9 +24,30 @@
 *WHEN I open the weather dashboard
 *THEN I am presented with the last searched city forecast
 
-* Got to the 
+## LIVE LINK: 
 <a href="https://cdmmandalorian.github.io/weatherDashboard.github.io/">A-1 Report Weather Dashboard</a>
+
+
+
+
+## Screenshots of Weather Dashboard:
 <img src="./assets\images\Screenshot_2020-09-18 A1-Report Weather Dashboard.png">
 <img src="./assets\images\Screenshot_2020-09-18 A1-Report Weather Dashboard(1).png">
 <img src="./assets\images\Screenshot_2020-09-18 A1-Report Weather Dashboard(2).png">
 <img src="./assets\images\Screenshot_2020-09-18 A1-Report Weather Dashboard(3).png">
+
+## Repository:  
+[Weather Dashboard](https://github.com/CdmMandalorian/weatherDashboard.github.io)  
+
+  
+## Portfolio:  
+[Armando Galindo Portfolio](https://cdmmandalorian.github.io/MResponsive-Portfolio/)
+  
+## Credits:    
+HTML 5  
+CSS    
+BootStrap      
+Google Fonts API
+Open Weather Map API       
+Javascript   
+JQuery     
