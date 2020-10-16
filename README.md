@@ -47,7 +47,7 @@
 HTML 5  
 CSS    
 BootStrap      
-Google Fonts API
-Open Weather Map API       
+Google Fonts API        
+Open Weather Map API        
 Javascript   
 JQuery     
