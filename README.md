@@ -39,7 +39,7 @@
 <img src="./assets\images\Screenshot_2020-09-18 A1-Report Weather Dashboard(3).png">
 
 ## Repository:  
-[Weather Dashboard](https://github.com/CdmMandalorian/A1WeatherReport.github.io)  
+[Weather Dashboard](https://github.com/CdmMandalorian/A1WeatherReport)  
 
   
 ## Portfolio:  
