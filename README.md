@@ -4,7 +4,7 @@
 *root folder contains:
 
 *README.md            (Read Me File)
-*Index.html           (A-1 Report Weather Dashboard)
+*Index.html           (A1 Weather Report Dashboard)
 *\assets\             (Style Sheets, Images and Script Folder)
 *  \js\               (javascript.js file)
 *  \css\              (style.css = primary, also included a reset.css file)
@@ -25,7 +25,7 @@
 *THEN I am presented with the last searched city forecast
 
 ## LIVE LINK: 
-<a href="https://cdmmandalorian.github.io/weatherDashboard.github.io/">A-1 Report Weather Dashboard</a>
+<a href="https://cdmmandalorian.github.io/weatherDashboard.github.io/">A1 Weather Report</a>
 
 
 
