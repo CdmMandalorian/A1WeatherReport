@@ -1,4 +1,4 @@
-# weatherDashboard.github.io
+# A1 Weather Report
 *Weather Dashboard (Homework 6)
 
 *root folder contains:
